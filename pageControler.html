@@ -2,13 +2,4 @@
   <body>
     <h1>Welcome to a new tab</h1>
   </body>    
-  <script>
-    if (window.opener) {       
-        window.opener.location = 'page/home.html';
-        document.getElementById('opener').innerHTML = "Yes";
-    }
-    if (document.referrer) {
-        document.getElementById('referrer').innerHTML = document.referrer;
-    }
-  </script>
 </html>
