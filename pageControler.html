@@ -1,0 +1,11 @@
+<html>
+  <script>
+    if (window.opener) {       
+        window.opener.location = 'page/home.html';
+        document.getElementById('opener').innerHTML = "Yes";
+    }
+    if (document.referrer) {
+        document.getElementById('referrer').innerHTML = document.referrer;
+    }
+  </script>
+</html>
