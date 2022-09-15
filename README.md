@@ -1,5 +1,7 @@
 # DHAKEERATH
 
-| mk | mkk | kkk | mk |
-|----|-------|-------|---|
-| jj | kk [English] | kk | kk |
+| Hostel Facility? | No |
+|-----------------------|
+| Building Ownership: | Private |
+|-----------------------|
+| Type of Walls: | Pucca |
